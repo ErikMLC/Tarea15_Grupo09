@@ -9,6 +9,9 @@ public class Triangulo {
     private double area;
     private double perimetro;
 
+    public Triangulo() {
+    }
+
     public Triangulo(double ladoA, double ladoB, double ladoC) throws TriangleExceptionNotCreate {
         if (esTriangulo(ladoA, ladoB, ladoC)) {
             this.ladoA = ladoA;
