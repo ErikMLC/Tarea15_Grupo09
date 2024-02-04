@@ -27,12 +27,12 @@ public class TrianguloTest {
 
     @BeforeEach
     public void setUp() {
-        System.out.println("Iniciando prueba");
+        System.out.println("    Iniciando prueba");
     }
 
     @AfterEach
     public void tearDown() {
-        System.out.println("Finalizando prueba");
+        System.out.println("    Finalizando prueba");
     }
 
     @Test
@@ -143,6 +143,18 @@ public class TrianguloTest {
     @Test
     public void testTrianguloEquilateroError() throws TriangleExceptionNotCreate {
         Triangulo triangulo = new Triangulo(3, 3, 3);
+        assertNotEquals("Isósceles", triangulo.calcularTipo());
+    }
+
+    @Test
+    public void testTrianguloIsoceles() throws TriangleExceptionNotCreate {
+        Triangulo triangulo = new Triangulo(5,5,2);
+        assertEquals("Isósceles", triangulo.calcularTipo());
+    }
+
+    @Test
+    public void testTrianguloIsocelesErrores() throws TriangleExceptionNotCreate {
+        Triangulo triangulo = new Triangulo(5,8,4);
         assertNotEquals("Isósceles", triangulo.calcularTipo());
     }
 

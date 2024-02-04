@@ -6,3 +6,15 @@
 04/02/2024 00:26:17 - El triángulo no puede ser creado con los lados o dimensiones [2.0, 7.0, 12.0] proporcionados.
 04/02/2024 00:26:53 - El triángulo no puede ser creado con los lados o dimensiones [2.0, 7.0, 12.0] proporcionados.
 04/02/2024 00:27:53 - El triángulo no puede ser creado con los lados o dimensiones [2.0, 7.0, 12.0] proporcionados.
+04/02/2024 14:17:44 - El triángulo no puede ser creado con los lados o dimensiones [2.0, 7.0, 12.0] proporcionados.
+04/02/2024 14:17:44 - El triángulo no puede ser creado con los lados o dimensiones [2.0, 7.0, 12.0] proporcionados.
+04/02/2024 14:17:44 - El triángulo no puede ser creado con los lados o dimensiones [2.0, 7.0, 12.0] proporcionados.
+04/02/2024 14:17:44 - El triángulo no puede ser creado con los lados o dimensiones [2.0, 7.0, 12.0] proporcionados.
+04/02/2024 14:17:44 - El triángulo no puede ser creado con los lados o dimensiones [2.0, 7.0, 12.0] proporcionados.
+04/02/2024 16:07:36 - El triángulo no puede ser creado con los lados o dimensiones [5.0, 8.0, 2.0] proporcionados.
+04/02/2024 16:09:00 - El triángulo no puede ser creado con los lados o dimensiones [5.0, 8.0, 2.0] proporcionados.
+04/02/2024 16:11:16 - El triángulo no puede ser creado con los lados o dimensiones [2.0, 7.0, 12.0] proporcionados.
+04/02/2024 16:11:16 - El triángulo no puede ser creado con los lados o dimensiones [2.0, 7.0, 12.0] proporcionados.
+04/02/2024 16:11:16 - El triángulo no puede ser creado con los lados o dimensiones [2.0, 7.0, 12.0] proporcionados.
+04/02/2024 16:11:16 - El triángulo no puede ser creado con los lados o dimensiones [2.0, 7.0, 12.0] proporcionados.
+04/02/2024 16:11:16 - El triángulo no puede ser creado con los lados o dimensiones [2.0, 7.0, 12.0] proporcionados.
