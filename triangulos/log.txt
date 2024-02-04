@@ -1,0 +1,3 @@
+03/02/2024 21:39:10 - El triángulo no puede ser creado con los lados o dimensiones [2.0, 7.0, 12.0] proporcionados.
+03/02/2024 21:39:40 - El triángulo no puede ser creado con los lados o dimensiones [5.0, 8.0, 3.0] proporcionados.
+03/02/2024 21:40:17 - El triángulo no puede ser creado con los lados o dimensiones [1.0, 6.0, 11.0] proporcionados.
