@@ -158,4 +158,16 @@ public class TrianguloTest {
         assertNotEquals("Isósceles", triangulo.calcularTipo());
     }
 
+    @Test
+    public void testTrianguloEscaleno() throws TriangleExceptionNotCreate {
+        Triangulo triangulo = new Triangulo(6,8,10);
+        assertEquals("Escaleno", triangulo.calcularTipo());
+    }
+
+    @Test
+    public void testTrianguloEscalenoErrores() throws TriangleExceptionNotCreate {
+        Triangulo triangulo = new Triangulo(6,8,10);
+        assertNotEquals("Equilatero", triangulo.calcularTipo());
+    }
+
 }
