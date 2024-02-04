@@ -34,7 +34,7 @@ public class Triangulo {
         } else if (ladoA == ladoB || ladoA == ladoC || ladoB == ladoC) {
             return "Isósceles";
         } else {
-            return "Escaleno";
+            return "No es Equilátero ni Isósceles.";
         }
     }
 
