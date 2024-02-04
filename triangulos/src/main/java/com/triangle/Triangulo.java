@@ -31,8 +31,10 @@ public class Triangulo {
     public String calcularTipo() {
         if (ladoA == ladoB && ladoB == ladoC) {
             return "Equilátero";
-        } else{
-            return "No es equilatero";
+        } else if (ladoA == ladoB || ladoA == ladoC || ladoB == ladoC) {
+            return "Isósceles";
+        } else {
+            return "Escaleno";
         }
     }
 
